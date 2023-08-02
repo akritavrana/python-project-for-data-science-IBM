@@ -1,5 +1,5 @@
 # python-project-for-data-science-IBM
-IBM course project solution 
+IBM course project solution <br>
 Question 1) Use yfinance library to extract Tesla Stock Data <br>
 <img width="800" alt="q1" src="https://github.com/akritavrana/python-project-for-data-science-IBM/assets/64726378/a5cad57d-e3ec-4eeb-afb0-a233fdf21932"><br>
 Question 2) Use Webscraping to extract Tesla Revenue Data<br>
