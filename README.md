@@ -9,6 +9,6 @@ Question 3) Use yfinance library to extract GME Stock Data
 Question 4) Use Webscraping to extract GME Revenue Data
 <img width="827" alt="q4" src="https://github.com/akritavrana/python-project-for-data-science-IBM/assets/64726378/1b1cb166-ae50-487c-83c5-e3a12e9b709e">
 Question 5) Plot Tesla Stock data and Revenue Data
-![q5](https://github.com/akritavrana/python-project-for-data-science-IBM/assets/64726378/d24d8fea-5067-42c5-815c-2ec5cf2117df)
+![q5](https://github.com/akritavrana/python-project-for-data-science-IBM/assets/64726378/276ffcf6-6128-423c-b467-5e47f0a03604)
 Question 6) Plot GME Stock Data and Revenue Data
 ![q6](https://github.com/akritavrana/python-project-for-data-science-IBM/assets/64726378/f9a1c299-2c24-4259-bd56-d88216beaeca)
