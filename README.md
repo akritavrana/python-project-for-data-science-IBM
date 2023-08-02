@@ -1,4 +1,4 @@
-<img width="827" alt="image" src="https://github.com/akritavrana/python-project-for-data-science-IBM/assets/64726378/95e21a30-f6db-40ba-921d-a4abcd08b971"># python-project-for-data-science-IBM
+# python-project-for-data-science-IBM
 IBM course project solution 
 Question 1) Use yfinance library to extract Tesla Stock Data
 <img width="800" alt="q1" src="https://github.com/akritavrana/python-project-for-data-science-IBM/assets/64726378/a5cad57d-e3ec-4eeb-afb0-a233fdf21932">
